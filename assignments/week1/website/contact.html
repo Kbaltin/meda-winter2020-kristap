@@ -3,7 +3,7 @@
 <head> 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Homepage</title>
+    <title>Contact</title>
 
     <link rel="stylesheet" href="styles/reset.css" />
     <link rel="stylesheet" href="styles/main.css" />
@@ -26,11 +26,26 @@
 
     <main id="contact-page">
         <div id="first-column">
+            <form>
+                <label for="fName">First Name</label><br />
+                <input type="text" id="fName" /><br />
+                <label for="email">Email</label><br />
+                <input type="text" id="email" /><br />
+                <label for="subject">Subject</label><br />
+                <input type="text" id="subject" /><br />
+                <label for="messages">Message</label><br />
+                <textarea id="message" rows="7"></textarea><br />
+                <input type="reset" />
+                <input type="submit" />
+            </form>
 
-        </div>
-
-        <div id="second-column">
-
+        </div><div id="second-column">
+            <h2>Address</h2>
+            <p>123 Some Street, San Francisco California 94110</p>
+            <h2>Phone Number</h2>
+            <p><a href="tel:+14151234567">(415) 123-4567</a></p>
+            <h2>Email</h2>
+            <p><a href="email:example@example">example@example.com</a></p>    
         </div>
     </main>
     
