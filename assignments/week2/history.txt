@@ -1,0 +1,31 @@
+
+The file essay.txt comtains a total of 935 letters.
+ It has a total of 191 words in it.
+It has a total of 10 sentences in it.
+
+
+The file essay.txt comtains a total of 935 letters.
+ It has a total of 191 words in it.
+It has a total of 10 sentences in it.
+
+
+The file essay.txt comtains a total of 935 letters.
+ It has a total of 191 words in it.
+It has a total of 10 sentences in it.
+
+essay.txt
+ It has a total of 191 words in it.
+It has a total of 10 sentences in it.
+
+essay.txt
+
+
+ It has a total of 191 words in it.
+It has a total of 10 sentences in it.
+
+essay.txt
+
+
+ It has a total of 191 words in it.
+It has a total of 10 sentences in it.
+
