@@ -1,0 +1,83 @@
+
+ 
+ @import url('https://fonts.googleapis.com/css2?family=Oxygen&display=swap');
+ 
+ header {
+    padding: 20px;
+    text-align: center;
+    background: black;
+    color: white;
+    font-size: 15px;
+  }
+ 
+
+body {
+    font-family: 'Oxygen', serif;
+    font-size: 24px;
+    line-height: 1;
+    text-align: center;
+    color:black;
+    margin: 0;
+}
+
+#main {
+    margin: 15px 2px;
+    padding: 5px;
+    border-radius: 5px;
+    background: lightgray;
+}
+
+#img-div {
+    background: black;
+    padding: 5px;
+    margin: 0;
+    display: block;
+
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+#img-caption {
+        display: block; 
+        background-color: white;
+        padding: 10px;
+    }
+   
+#tribute-info {
+    display: block;
+}
+
+#headline {
+    margin: 50px 0;
+    text-align: center;
+    display: block;
+    font-size: 36px;    
+}
+
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 150%;
+}
+
+ul {
+    display: block;    
+}
+
+li {
+    margin: 25px 0;
+}
+
+footer {
+    padding: 20px;
+    text-align: center;
+    background: black;
+    color: white;
+    font-size: 15px;
+  }
