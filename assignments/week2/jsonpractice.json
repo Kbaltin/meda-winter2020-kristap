@@ -1,0 +1,14 @@
+// Rule 1: All keys MUST be in quotes.
+// Rule 2: No functions allowed.
+// Rule 3: Only one "object".
+// Rule 4: no comments
+
+{
+    "name": "Eduardo",
+    "objects": [
+        {},
+        {},
+        {},
+        {}
+    ]
+}
